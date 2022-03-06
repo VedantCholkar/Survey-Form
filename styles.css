@@ -36,15 +36,6 @@ header {
     margin: 10px;
 }
 
-#spacer {
-    aspect-ratio: 900/25;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-image: url('./assets/header-wave.svg');
-}
-
 #survey-form {
     display: flex;
     align-items: center;
